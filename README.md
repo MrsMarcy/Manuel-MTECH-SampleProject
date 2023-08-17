@@ -1,2 +1,2 @@
-# Maunel-MTECH-SampleProject
+# Manuel-MTECH-SampleProject
 for mtech collaboration
