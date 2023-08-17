@@ -31,6 +31,16 @@ border-radius: 80em 80em 80em 80em;
 border: 2px solid whitesmoke;
 box-shadow: 10px 13px 15px 10px whitesmoke
 }
+.thing {
+  background-color: purple; /* purple */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
 
 @-webkit-keyframes rotating /* Safari and Chrome */ {
